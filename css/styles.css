@@ -1,0 +1,20 @@
+iframe{
+  width: 400px;
+  height: 400px;
+}
+
+.redtext{
+  color:red;
+}
+
+.pinktext{
+  color: magenta;
+}
+
+#votingage, #minor{
+  display: none;
+}
+
+ ul li{
+   text-decoration: none;
+ }
